@@ -132,6 +132,22 @@
 					}
 				}
 			]
+		},
+		{
+			"Category": "写真展",
+			"Worlds": [
+				{
+					"ID": "wrld_b67afbe5-4e09-4ba6-b94e-b4a59ad1e829",
+					"Name": "Your Memories -VRC Photo Collection-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ゆずさんの写真展",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
 		}
 	]
 }
