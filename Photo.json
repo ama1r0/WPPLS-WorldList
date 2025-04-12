@@ -146,6 +146,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_3d26faad-f3bc-4b34-a8ff-4c4ed4f3ebba",
+					"Name": "「LUCID DREAM」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRCで写真撮りはじめるきっかけとなったワールド\r\nワールドそのものも綺麗",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		}
