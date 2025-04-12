@@ -1,19 +1,85 @@
 {
-	"ReverseCategorys": true,
+	"ReverseCategorys": false,
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
-			"Category": "写真展",
+			"Category": "中華",
 			"Worlds": [
 				{
-					"ID": "wrld_b67afbe5-4e09-4ba6-b94e-b4a59ad1e829",
-					"Name": "Your Memories -VRC Photo Collection-",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "ゆずさんの写真展\r\nしきずさんとToMoSanの写真が特に好き",
+					"ID": "wrld_5a1e20fd-1239-491e-abc5-b9acde9d287d",
+					"Name": "诗之所向2",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "水面に浮かぶ蓮の花が綺麗\r\n花火や孔明灯も見れます！傘も置いある",
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ea8cd73d-8300-47cc-84f2-529ef378ba76",
+					"Name": "Chinese Ink Painting 山水画",
+					"RecommendedCapacity": 18,
+					"Capacity": 36,
+					"Description": "墨惺くんのサンプルが置いてある\r\n原神の璃月っぽい",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_2e497409-c5d5-4ccd-a10f-2776d5e2ab98",
+					"Name": "水晶宮 - suishogu",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "ネオン！中華！空にはお魚が泳いでいてポップでかわいい\r\nちょっと重め",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "ゴシック",
+			"Worlds": [
+				{
+					"ID": "",
+					"Name": "",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": ""
+				}
+			]
+		},
+		{
+			"Category": "大正ロマン",
+			"Worlds": [
+				{
+					"ID": "wrld_cb47f62e-c8b2-4a5b-8471-cb0f72ec064b",
+					"Name": "哲学カフェ 芳紅 （ぽこ） 堂 - Cafe Poko-Do",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "常設のいわゆる「哲学カフェ」をコンセプトにしたPublic交流ワールド。その昔の学生が入り浸ったレトロな喫茶店をイメージしています。ほんのり知的刺激のある話題をたまたま居合わせた人と対話できる場。専門的な哲学の知識は不要です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "夏(海)",
+			"Worlds": [
+				{
+					"ID": "wrld_c27c9d52-355f-4e38-8d71-0477270f8dd6",
+					"Name": "水平線",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "海のカフェ",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
@@ -59,7 +125,7 @@
 					"Name": "Wordless",
 					"RecommendedCapacity": 10,
 					"Capacity": 20,
-					"Description": "お魚と一緒に泳げる\r\n沈没船がある",
+					"Description": "一緒に泳げる\r\n沈没船がある",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -68,80 +134,14 @@
 			]
 		},
 		{
-			"Category": "夏(海)",
+			"Category": "写真展",
 			"Worlds": [
 				{
-					"ID": "wrld_c27c9d52-355f-4e38-8d71-0477270f8dd6",
-					"Name": "水平線",
+					"ID": "wrld_b67afbe5-4e09-4ba6-b94e-b4a59ad1e829",
+					"Name": "Your Memories -VRC Photo Collection-",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "海のカフェ",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				}
-			]
-		},
-		{
-			"Category": "大正ロマン",
-			"Worlds": [
-				{
-					"ID": "wrld_cb47f62e-c8b2-4a5b-8471-cb0f72ec064b",
-					"Name": "哲学カフェ 芳紅 （ぽこ） 堂 - Cafe Poko-Do",
-					"RecommendedCapacity": 80,
-					"Capacity": 80,
-					"Description": "常設のいわゆる「哲学カフェ」をコンセプトにしたPublic交流ワールド。その昔の学生が入り浸ったレトロな喫茶店をイメージしています。ほんのり知的刺激のある話題をたまたま居合わせた人と対話できる場。専門的な哲学の知識は不要です。",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				}
-			]
-		},
-		{
-			"Category": "ゴシック",
-			"Worlds": [
-				{
-					"ID": "",
-					"Name": "",
-					"RecommendedCapacity": 0,
-					"Capacity": 0,
-					"Description": ""
-				}
-			]
-		},
-		{
-			"Category": "中華",
-			"Worlds": [
-				{
-					"ID": "wrld_5a1e20fd-1239-491e-abc5-b9acde9d287d",
-					"Name": "诗之所向2",
-					"RecommendedCapacity": 60,
-					"Capacity": 60,
-					"Description": "水面に浮かぶ蓮の花が綺麗\r\n花火や孔明灯も見れます！傘も置いある",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
-					"ID": "wrld_ea8cd73d-8300-47cc-84f2-529ef378ba76",
-					"Name": "Chinese Ink Painting 山水画",
-					"RecommendedCapacity": 18,
-					"Capacity": 36,
-					"Description": "墨惺くんのサンプルが置いてある\r\n原神の璃月っぽい",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_2e497409-c5d5-4ccd-a10f-2776d5e2ab98",
-					"Name": "水晶宮 - suishogu",
-					"RecommendedCapacity": 64,
-					"Capacity": 64,
-					"Description": "ネオン！中華！空にはお魚が泳いでいてポップでかわいい\r\nちょっと重め",
+					"Description": "ゆずさんの写真展\r\nしきずさんとToMoSanの写真が特に好き",
 					"Platform": {
 						"PC": true,
 						"Android": false
