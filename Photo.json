@@ -76,7 +76,7 @@
 					"Name": "水平線",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "海のカフェ",
+					"Description": "海のカフェ\r\n爽やかで白が綺麗",
 					"Platform": {
 						"PC": true,
 						"Android": true
