@@ -152,7 +152,7 @@
 					"Name": "STUDIO open-shelf",
 					"RecommendedCapacity": 20,
 					"Capacity": 40,
-					"Description": "12のシチュエーションで、なんとなくいい感じの写真や動画をお手軽に撮影できるワールドです。\r\n【2024⁄2⁄6 SDK3․5․0にアップデート。処理の軽量化。イベント運用向けのギミック（imagePad、無減衰マイク）、Joinログを追加。透明椅子を視認しやすいマテリアルに変更。ポスター追加。】",
+					"Description": "12のシチュエーションで、なんとなくいい感じの写真や動画をお手軽に撮影できるワールドです。",
 					"Platform": {
 						"PC": true,
 						"Android": false
