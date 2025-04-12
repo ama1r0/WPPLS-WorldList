@@ -76,7 +76,7 @@
 					"Name": "水平線",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "海のカフェ\r\n爽やかで白が綺麗",
+					"Description": "海のおしゃれなカフェ\r\n爽やかで白が綺麗",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -92,7 +92,7 @@
 					"Name": "ちいさな水族館のちいさなお部屋_Small aquarium room",
 					"RecommendedCapacity": 8,
 					"Capacity": 32,
-					"Description": "アクアリウムを眺めながら一休みできる、ちいさなお部屋です。睡眠ギミック・動画プレイヤー・Qvpen・imagePad・FlipCamera等、一通りあります。 Relax in a small aquarium room featuring a video player‚ sleep gimmick‚ Qvpen‚ imagePad‚ and FlipCamera․",
+					"Description": "アクアリウムを眺めながら一休みできる、ちいさなお部屋です。\r\n睡眠ギミック・動画プレイヤー・Qvpen・imagePad・FlipCamera等、一通りあります。",
 					"Platform": {
 						"PC": true,
 						"Android": true
