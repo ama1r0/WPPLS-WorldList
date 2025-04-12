@@ -134,6 +134,33 @@
 			]
 		},
 		{
+			"Category": "撮影スタジオ",
+			"Worlds": [
+				{
+					"ID": "wrld_3d26faad-f3bc-4b34-a8ff-4c4ed4f3ebba",
+					"Name": "STUDIO open-shelf",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "12のシチュエーションで、なんとなくいい感じの写真や動画をお手軽に撮影できるワールドです。\r\n【2024⁄2⁄6 SDK3․5․0にアップデート。処理の軽量化。イベント運用向けのギミック（imagePad、無減衰マイク）、Joinログを追加。透明椅子を視認しやすいマテリアルに変更。ポスター追加。】",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_af75cecb-8543-4179-a6ea-1eea190d65a0",
+					"Name": "-lvmǃ?。",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "写真展",
 			"Worlds": [
 				{
