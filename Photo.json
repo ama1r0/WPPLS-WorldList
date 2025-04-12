@@ -130,6 +130,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_5ae203a6-5501-4025-ae4a-f46d869393da",
+					"Name": "Blue Museum",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "水中の美術館",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
