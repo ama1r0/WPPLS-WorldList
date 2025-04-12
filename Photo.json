@@ -159,6 +159,17 @@
 					}
 				},
 				{
+					"ID": "world/wrld_beceefff-0b61-441a-bd2a-86ff1d611921",
+					"Name": "flower_photostudio",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "撮影用に作成しました。写真などにどうぞ。 ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_9ea27ce5-c0c5-47eb-9eda-edb090bb4406",
 					"Name": "白背景で写真を撮るワールド",
 					"RecommendedCapacity": 4,
