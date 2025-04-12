@@ -44,11 +44,11 @@
 			"Category": "ゴシック",
 			"Worlds": [
 				{
-					"ID": "",
-					"Name": "",
-					"RecommendedCapacity": 0,
-					"Capacity": 0,
-					"Description": ""
+					"ID": "wrld_15b40b18-136c-4740-b499-a320cfc434a9",
+					"Name": "Viola villa",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "ヴィクトリアン調な、すみれ色のお部屋です。ちいさな住人向けのコライダーがあります。 \r\nBGM˸春とともに⁄Hazuki Shion"
 				}
 			]
 		},
