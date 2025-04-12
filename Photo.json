@@ -137,7 +137,7 @@
 			"Category": "撮影スタジオ",
 			"Worlds": [
 				{
-					"ID": "wrld_3d26faad-f3bc-4b34-a8ff-4c4ed4f3ebba",
+					"ID": "wrld_66616040-aebd-4de2-8a19-18badd73a11d",
 					"Name": "STUDIO open-shelf",
 					"RecommendedCapacity": 20,
 					"Capacity": 40,
@@ -159,7 +159,7 @@
 					}
 				},
 				{
-					"ID": "world/wrld_beceefff-0b61-441a-bd2a-86ff1d611921",
+					"ID": "wrld_beceefff-0b61-441a-bd2a-86ff1d611921",
 					"Name": "flower_photostudio",
 					"RecommendedCapacity": 20,
 					"Capacity": 40,
