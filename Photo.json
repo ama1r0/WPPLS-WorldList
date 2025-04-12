@@ -114,7 +114,7 @@
 					"Name": "Aquatic Wishes",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "お魚の動きが自然で一緒に泳げる",
+					"Description": "結構暗めで、トンネルのくらげがかわいい\r\nお魚の動きが自然で一緒に泳げる",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -125,7 +125,7 @@
 					"Name": "Wordless",
 					"RecommendedCapacity": 10,
 					"Capacity": 20,
-					"Description": "結構暗めで、トンネルのくらげがかわいい\r\nお魚と一緒に泳げる",
+					"Description": "縦に長くて暗め\r\n魚と一緒に泳げる",
 					"Platform": {
 						"PC": true,
 						"Android": false
