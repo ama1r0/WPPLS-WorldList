@@ -1,4 +1,4 @@
-{
+{https://github.com/ama1r0/WPPLS-WorldList/tree/main
 	"ReverseCategorys": false,
 	"ShowPrivateWorld": false,
 	"Categorys": [
@@ -153,6 +153,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9ea27ce5-c0c5-47eb-9eda-edb090bb4406",
+					"Name": "白背景で写真を撮るワールド",
+					"RecommendedCapacity": 4,
+					"Capacity": 18,
+					"Description": "ペンもミラーもプレーヤーもある",
 					"Platform": {
 						"PC": true,
 						"Android": false
