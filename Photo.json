@@ -128,6 +128,22 @@
 			]
 		},
 		{
+			"Category": "ガーリー",
+			"Worlds": [
+				{
+					"ID": "wrld_b9c38b3b-4563-4810-b6ae-ae6ad44fccd7",
+					"Name": "La Fille Tea Room",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "3DインテリアショップLa Filleの公式ワールドです。\r\nちょっとクラシカルでフローラルなティールームにカワイイをいっぱい詰め込みました！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "夏(海)",
 			"Worlds": [
 				{
