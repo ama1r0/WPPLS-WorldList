@@ -152,6 +152,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_a98b81ca-92b4-4b28-a060-ce8a019ee35d",
+					"Name": "Destlium",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "標識とクラゲという変わった組み合わせ\r\nライティングも独特でここでしか撮れない写真が撮れるかも",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
