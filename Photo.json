@@ -86,6 +86,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_757dd2d3-ad61-4eb5-928e-8682712ed267",
+					"Name": "Baroque Mansion",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "午後3時にクラシックを聴きながら、 雰囲気のある洋館の一角で紅茶を嗜む様なワールドです。 ご来界お待ちしております。"
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
