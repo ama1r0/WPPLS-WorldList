@@ -28,6 +28,17 @@
 					}
 				},
 				{
+					"ID": "wrld_e4131f5f-5d41-4043-8fcd-ac9ce53cd418",
+					"Name": "九龍城塞路 Kowloon-walledstreet 2․0",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ネオン！中華！密度がたまらんワールド\r\nちょっと重め",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_2e497409-c5d5-4ccd-a10f-2776d5e2ab98",
 					"Name": "水晶宮 - suishogu",
 					"RecommendedCapacity": 64,
