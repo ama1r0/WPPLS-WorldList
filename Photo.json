@@ -37,6 +37,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_47991d2e-42ef-4690-84fd-9100a5457c88",
+					"Name": "KOWLOON SHISHA NIGHT ［九龍水煙之夜］",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "九龍城砦の雰囲気に浸りながらシーシャで一服するワールドです。吸えるシーシャギミック⁄動画プレイヤー⁄睡眠用ギミック（アラーム・ナイトモード）あり。 ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
