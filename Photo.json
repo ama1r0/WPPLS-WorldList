@@ -212,6 +212,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_9ea27ce5-c0c5-47eb-9eda-edb090bb4406",
+					"Name": "Shadow Studio",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "スポットライトが置いてある真っ暗なワールド。写真撮影にどうぞ。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
