@@ -214,7 +214,7 @@
 					}
 				},
 				{
-					"ID": "wrld_9ea27ce5-c0c5-47eb-9eda-edb090bb4406",
+					"ID": "wrld_eb560a53-89f0-44fc-8a4c-90d5b38e68b4",
 					"Name": "Shadow Studio",
 					"RecommendedCapacity": 4,
 					"Capacity": 8,
@@ -246,6 +246,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "VRCで写真撮りはじめるきっかけとなったワールド\r\nワールドそのものも綺麗",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c6bd81af-2747-4eee-8f66-06db2eb8104e",
+					"Name": "VR Photo Exhibition ＂Experiment 1＂",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "合同写真展＂Experiment ˸ 1＂ 撮影された写真は「＃VR_EXPERIMENT_1」のハッシュタグをつけていただけると励みになります。",
 					"Platform": {
 						"PC": true,
 						"Android": false
