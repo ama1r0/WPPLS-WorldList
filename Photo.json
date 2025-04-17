@@ -52,7 +52,7 @@
 			]
 		},
 		{
-			"Category": "ゴシック",
+			"Category": "クラシック・ゴシック",
 			"Worlds": [
 				{
 					"ID": "wrld_15b40b18-136c-4740-b499-a320cfc434a9",
@@ -60,6 +60,21 @@
 					"RecommendedCapacity": 10,
 					"Capacity": 20,
 					"Description": "ヴィクトリアン調な、すみれ色のお部屋です。ちいさな住人向けのコライダーがあります。"
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a3001243-41bb-4bd6-8ac8-76e4fa0472d7",
+					"Name": "Baroque Mansion",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "リアル調で重め　クラシックな館　お庭が綺麗"
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
