@@ -170,6 +170,17 @@
 					}
 				},
 				{
+					"ID": "wrld_4f0261c4-57ad-48f1-a792-630ca342fbda",
+					"Name": "OSPhotoStudio",
+					"RecommendedCapacity": 48,
+					"Capacity": 48,
+					"Description": "今まで作ったやつをいい感じにまとめて作成した撮影用ワールドです。イラストっぽい写真が撮れます。ご自由にお使いください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_af75cecb-8543-4179-a6ea-1eea190d65a0",
 					"Name": "-lvmǃ?。",
 					"RecommendedCapacity": 16,
