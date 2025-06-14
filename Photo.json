@@ -236,7 +236,18 @@
 					"Description": "夕暮れ時の空を背景に淡い色合いが美しい景観系ワールド\r\n港町に旅に来た気分になれる\r\nシャルさんのワールドはいいぞ",
 					"Platform": {
 						"PC": true,
-						"Android": true
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ce2b8ad4-0d37-41d0-81f3-a01c816f77a5",
+					"Name": "Bistro",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ローマの街角風なワールド",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
