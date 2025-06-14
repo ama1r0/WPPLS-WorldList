@@ -119,7 +119,7 @@
 					"Name": "Baroque Mansion",
 					"RecommendedCapacity": 80,
 					"Capacity": 80,
-					"Description": "リアル調で重め　クラシックな館　お庭が綺麗"
+					"Description": "リアル調で重め　バロック様式の私邸\r\n贅沢な気分を味わえるワールド"
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -142,6 +142,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "緑っぽい色調が上品なクラシックワールド\r\nこちらのワールドの水中バージョン、UNDERSALON․も素敵"
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5ed1484c-238d-4e48-82f7-37f51bfd30a3",
+					"Name": "追憶の庭園 - garden of nostalgia -",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "ノスタルジックな庭園ワールド"
 					"Platform": {
 						"PC": true,
 						"Android": false
