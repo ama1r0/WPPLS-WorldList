@@ -157,6 +157,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_350b2044-3882-4ccb-bb2c-c34a6eb7cea0",
+					"Name": "Color Shower",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "ステンドグラスから射す光が美しいワールド\r\nランプで光の色を変えられる\r\n是非白い服で",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
