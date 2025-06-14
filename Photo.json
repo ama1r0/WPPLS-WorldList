@@ -309,6 +309,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_13f15851-5366-4365-aca9-6f134b263cff",
+					"Name": "Yayoi summer rust",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "夏の終末世界なワールド\r\n爽やかな青空と水没した街の寂寥感の対比が感傷的な幻想世界\r\n猫屋敷やよいさんのワールドはいいぞ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
