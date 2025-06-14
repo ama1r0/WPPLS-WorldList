@@ -222,10 +222,21 @@
 					"Name": "Carnelian Town - Autumn Day",
 					"RecommendedCapacity": 30,
 					"Capacity": 40,
-					"Description": "紅葉とレンガ造りの街並みが美しい、暖かい日差しのワールド",
+					"Description": "紅葉とレンガ造りの街並みが美しい、暖かい日差しのワールド\r\n雪の日バージョンなどもある",
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_689e7533-f2e4-4f7f-92ca-868a96a357a2",
+					"Name": "Charlotte's Raindrop Island 天気雨と夕焼けの港町",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "夕暮れ時の空を背景に淡い色合いが美しい景観系ワールド\r\n港町に旅に来た気分になれる",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
