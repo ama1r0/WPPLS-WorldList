@@ -3,6 +3,22 @@
 	"ShowPrivateWorld": true,
 	"Categorys": [
 		{
+			"Category": "和風",
+			"Worlds": [
+				{
+					"ID": "wrld_c62293a5-c6f8-496b-af2d-9bd3d8a6c32d",
+					"Name": "とおりゃんせ",
+					"RecommendedCapacity": 22,
+					"Capacity": 44,
+					"Description": "赤と黒に彩られた和風サイバーなワールド",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "中華",
 			"Worlds": [
 				{
