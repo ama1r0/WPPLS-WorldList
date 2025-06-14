@@ -538,6 +538,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_66ddea19-8172-4e5e-9a80-399377a84802",
+					"Name": "ネオエデンプラットフォーム -NEO Eden Platform-",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "クリスタルや綺麗な球体が幻想的で美しい\r\nあっとさんのワールドはいいぞ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		}
