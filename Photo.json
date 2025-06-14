@@ -70,7 +70,7 @@
 					"Name": "Viola villa",
 					"RecommendedCapacity": 10,
 					"Capacity": 20,
-					"Description": "ヴィクトリアン調な、すみれ色のお部屋です。ちいさな住人向けのコライダーがあります。"
+					"Description": "ヴィクトリアン調な、すみれ色のお部屋です。"
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -92,10 +92,21 @@
 					"Name": "Baroque Mansion",
 					"RecommendedCapacity": 40,
 					"Capacity": 40,
-					"Description": "午後3時にクラシックを聴きながら、 雰囲気のある洋館の一角で紅茶を嗜む様なワールドです。 ご来界お待ちしております。"
+					"Description": "午後3時にクラシックを聴きながら、 雰囲気のある洋館の一角で紅茶を嗜む様なワールドです。"
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_757dd2d3-ad61-4eb5-928e-8682712ed267",
+					"Name": "SALON․",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "緑っぽい色調が上品なクラシックワールド\r\nこちらのワールドの水中バージョン、UNDERSALON․も素敵"
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -155,6 +166,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f01d8407-080a-4a9c-8ca8-9cd38cf9be92",
+					"Name": "VEINPRM23W",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "海の色合いが綺麗、だけどどこか寂しさを感じるワールド",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -294,6 +316,17 @@
 					"RecommendedCapacity": 4,
 					"Capacity": 8,
 					"Description": "スポットライトが置いてある真っ暗なワールド。写真撮影にどうぞ。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b7f2dd53-aacf-4423-9d5e-33250a312574",
+					"Name": "postprosessing sample。",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "postprosessingのサンプルワールドです。\r\n入って右手のボタンを押すとデフォルトと比較できます。 元に戻す際はお手数ですがボタンを連打してください。",
 					"Platform": {
 						"PC": true,
 						"Android": false
