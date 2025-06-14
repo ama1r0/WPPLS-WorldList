@@ -37,6 +37,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_7633bef2-f336-4cde-b7b5-7b9b9b1e2b48",
+					"Name": "蒼穹-Bloomin'-",
+					"RecommendedCapacity": 5,
+					"Capacity": 12,
+					"Description": "紺の空で輝く星が美しい、湖上に鳥居と小さな祠があるワールド",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
