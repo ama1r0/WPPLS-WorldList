@@ -155,6 +155,44 @@
 			]
 		},
 		{
+			"Category": "街(ストリート)",
+			"Worlds": [
+				{
+					"ID": "wrld_b9c38b3b-4563-4810-b6ae-ae6ad44fccd7",
+					"Name": "小雨のあの日-A drizzly day",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "まばゆい夕暮れと天気雨の情景ワールド\r\nそこかしこの水が綺麗\r\nHANIさんのワールドは全部いい",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_52a109f1-c0ba-4386-baee-a7f40baf9792",
+					"Name": "01_STREET",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "ヨーロッパの都市の街並み、街の隅々に差し込む午後の日差し",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6dd2b5f8-f8f0-4f40-9a89-15ee2695d0a9",
+					"Name": "Carnelian Town - Autumn Day",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "紅葉とレンガ造りの街並みが美しい、暖かい日差しのワールド",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
 			"Category": "夏(海)",
 			"Worlds": [
 				{
