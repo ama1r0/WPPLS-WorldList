@@ -358,7 +358,7 @@
 					"Name": "-lvmǃ?。",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "撮影用ワールド ポストプロセスはスイッチで切り替え可能です。",
+					"Description": "撮影用ワールド ポストプロセスはスイッチで切り替え可能です。Ｌｖｍ！？。\r\nさんの別ワールドもおすすめ",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -392,17 +392,6 @@
 					"RecommendedCapacity": 4,
 					"Capacity": 8,
 					"Description": "スポットライトが置いてある真っ暗なワールド。写真撮影にどうぞ。",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
-					"ID": "wrld_b7f2dd53-aacf-4423-9d5e-33250a312574",
-					"Name": "postprosessing sample。",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "postprosessingのサンプルワールドです。\r\n入って右手のボタンを押すとデフォルトと比較できます。 元に戻す際はお手数ですがボタンを連打してください。",
 					"Platform": {
 						"PC": true,
 						"Android": false
