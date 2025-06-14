@@ -15,6 +15,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_a76aa4f6-6ec0-449a-a1ae-89beecb48463",
+					"Name": "山祇 -Yamatsumi-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "水墨画のような世界観の和風ワールド",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_985271dc-57d0-466e-b870-c72479d465ba",
+					"Name": "山神の社",
+					"RecommendedCapacity": 20,
+					"Capacity": 45,
+					"Description": "岩山の狭間に投げ込まれたように立つ神社のワールド\r\nモノクロ世界に赤い太陽と鳥居が印象的",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -419,6 +441,33 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "合同写真展＂Experiment ˸ 1＂\r\n撮影された写真は「＃VR_EXPERIMENT_1」のハッシュタグをつけていただけると励みになります。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "その他",
+			"Worlds": [
+				{
+					"ID": "wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f",
+					"Name": "消えたあなたと‚ 止まっている春が-Spring and you",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "草と樹に覆われた幻想のアトリエ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_034d4607-4ab1-49c2-b373-df7d5ee260d5",
+					"Name": "COLOR",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "白い部屋の中心にガラクタ的に集められたTVや自販機、椅子などが秘密基地的な雰囲気",
 					"Platform": {
 						"PC": true,
 						"Android": false
