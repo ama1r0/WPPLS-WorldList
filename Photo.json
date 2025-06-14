@@ -396,6 +396,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_a62b71e9-a02d-49dc-a5ac-e7cf53ef727d",
+					"Name": "․⁄ complication",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "一人の少女の心象世界のような不思議なワールド\r\nミステリアスな雰囲気での撮影に",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e7370567-0c86-4ea5-a658-2043034e1fd6",
+					"Name": "［Tragedy］사랑은 내게 비극이어라",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "四篇のアートシーンからなるワールド\r\nゴシックな要素と光・花からなる世界が綺麗",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -430,6 +452,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "合同写真展＂Experiment ˸ 1＂\r\n撮影された写真は「＃VR_EXPERIMENT_1」のハッシュタグをつけていただけると励みになります。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_f158272c-7134-484b-8c21-aa09f0f2da7d",
+					"Name": "Record ˸ Beyond the Lens",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "風景や人物の写真が多く飾られている、夜の静かなギャラリー\r\n使ったギミックを載せてくれているので勉強になる",
 					"Platform": {
 						"PC": true,
 						"Android": false
